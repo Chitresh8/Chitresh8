@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Building a modern e-commerce website using React and Redux (WIP).
 - 🌱 I’m currently learning on new things and concepts like Advanced React patterns, state management with Recoil, and improving performance with React.memo to enhance my skills.
 - 👯 I’m looking to collaborate on with a friend which he is building a modern E-Commerce project to fulfill his Goal and Open source React projects that focus on enhancing user interfaces and user experiences.
-- 🤔 I’m looking for Optimizing web performance and understanding the latest React best practices.
+- 🤔 I’m looking for help regarding Optimizing web performance and understanding the latest React best practices.
 - 💬 Ask me about  ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/Him.
