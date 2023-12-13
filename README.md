@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Playwright Automation and Testing with Javascript and Cucumber Framework.
-- 🌱 I’m currently learning on new things and concepts like Advanced React patterns, state management with Recoil, and improving performance with React.memo to enhance my skills.Currently fell in Automation and Testing.
+- 🌱 I’m currently learning on new things and concepts like Advanced React patterns, state management with Recoil, and improving performance with React.memo to enhance my skills.Currently fell in Automation and Testing (How to write code without Codegen???).
 - 👯 I’m looking to collaborate on with a friend which he is building a modern E-Commerce project to fulfill his Goal and Open source React projects that focus on enhancing user interfaces and user experiences.
 - 🤔 I’m looking for help regarding Optimizing web performance and understanding the latest React best practices.
 - 💬 Need to learn more things to enhance my skills ...
