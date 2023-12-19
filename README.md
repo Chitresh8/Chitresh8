@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Need to learn more things to enhance my skills => (How to write test cases of expected results Codegen??? As per my knowledge, we should write Manually). ...
 - 📫 Reach me on LinkedIn:www.linkedin.com/in/chitresh-babu-alavuru-3a3085293 ...
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact:I enjoy experimenting with new CSS frameworks and creating animated React components in my free time.
+- ⚡ Fun fact:I enjoy experimenting with new CSS frameworks and creating animated React components in my free time and taking Interviews for the React JS Front End Developer.
 -->
