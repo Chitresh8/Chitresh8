@@ -13,5 +13,4 @@ Here are some ideas to get you started:
 - 📫 Reach me on LinkedIn:www.linkedin.com/in/chitresh-babu-alavuru-3a3085293 ...
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact:I enjoy experimenting with new CSS frameworks and creating animated React components in my free time and taking Interviews for the React JS Front End Developer.
--😶 How to run the tests parallel in UI???
 -->
