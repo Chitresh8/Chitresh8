@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact:I enjoy experimenting with new CSS frameworks and creating animated React components in my free time.
 - 🎯 Goal: To become a Full Stack Developer...
-- ✍ Started to learn TypeScript with React😉......!
+- ✍ Started to learn TypeScript with React😉.......!
 -->
