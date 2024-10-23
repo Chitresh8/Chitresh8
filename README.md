@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact:I enjoy experimenting with new CSS frameworks and creating animated React components in my free time.
 - 🎯 Goal: To become a MERN Stack Developer.....
-- ✍ Started to learn, working and implementation of TypeScript,Cypress with React simultaneously😉..!
+- ✍ Started to learn, working and implementation of TypeScript,Cypress with React simultaneously😉...!
 -->
