@@ -3,7 +3,7 @@
 <!--
 **Chitresh8/chitresh8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:-
+Here are some ideas to get you started:--
 
 - 🔭 I’m currently learning as well as working on Playwright Automation and Testing with Javascript & Cucumber Framework (6 Months).
 - 🌱 I’m currently learning on new things and concepts like Advanced React patterns, state management with Recoil, and improving performance with React.memo to enhance 
