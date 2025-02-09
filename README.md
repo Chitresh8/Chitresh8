@@ -14,7 +14,7 @@ Here are some ideas to get you started:-
 - 📫 Reach me on LinkedIn:www.linkedin.com/in/chitresh-babu-alavuru-3a3085293 ..🙂
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact:I enjoy experimenting with new CSS frameworks and creating animated React components in my free time.
-- 🎯 Goal: To become a MERN Stack Developer.....
+- 🎯 Goal: To become a MERN or Full Stack Developer.....
 - ✍ Started to learn, working and implementation of TypeScript with React simultaneously😉...!
 - Need mentor to learn and enhance my skills in Coding.
 -->
