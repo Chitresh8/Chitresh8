@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-
 
-- 🔭 I’m currently learning as well as working on Playwright Automation and Testing with Javascript & Cucumber Framework (6 Months) and React Typescript project...
+- 🔭 I’m currently learning as well as working on Playwright Automation and Testing with Javascript & Cucumber Framework (6 Months) and React Typescript project..
 - 🌱 I’m currently learning on new things and concepts like Advanced React patterns, state management with Recoil, and improving performance with React.memo to enhance 
      my skills.Currently fell in Automation and Testing.
 - 👯 I’m looking to collaborate with a friend which he is building a modern E-Commerce project to fulfill his Goal and Open source React projects that focus on enhancing user interfaces and user experiences....
