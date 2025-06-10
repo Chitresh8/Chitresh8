@@ -18,5 +18,5 @@ Here are some ideas to get you started:-
 - Need mentor to learn and enhance my skills in Coding on Javascript and React...
 -->  Visitor Count <img src="https://profile-counter.glitch.me/Chitresh8/count.svg"/>
 ![Visitor Count](https://img.shields.io/badge/dynamic/json?color=informational&label=Visitors&query=value&url=https://api.countapi.xyz/hit/Chitresh8/github-profile-readme&style=flat)
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Chitresh8.Chitresh8)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Chitresh8)
 
