@@ -16,8 +16,4 @@ Here are some ideas to get you started:-
 - 🎯 Goal: To become a MERN Stack ==> Full Stack Developer...
 - ✍ Started to learn, working and implementation of TypeScript with React simultaneously😉...!
 - Need mentor to learn and enhance my skills in Coding on Javascript and React...
--->
-
-
-
-                                              ![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+-->  ![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
