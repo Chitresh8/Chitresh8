@@ -1,4 +1,4 @@
-ì Hi there 👋! I'm Chitresh = ( React JS ) => { Front End Developer }; 
+Hi there 👋! I'm Chitresh = ( React JS ) => { Front End Developer }; 
 
 <!--
 **Chitresh8/chitresh8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +13,7 @@ Here are some ideas to get you started:-
 - 📫 Reach me on LinkedIn:www.linkedin.com/in/chitresh-babu-alavuru-3a3085293 ..🙂
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact:I enjoy experimenting with new CSS frameworks and creating animated React components in my free time.
-- 🎯 Goal: To become a MERN or Full Stack Developer...
+- 🎯 Goal: To become a MERN Stack ==> Full Stack Developer...
 - ✍ Started to learn, working and implementation of TypeScript with React simultaneously😉...!
 - Need mentor to learn and enhance my skills in Coding on Javascript and React...
 -->
