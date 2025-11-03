@@ -17,8 +17,6 @@ Here are some ideas to get you started:-
 - ✍ Actively learning and implementing TypeScript in React.
 - 🙏 Looking for a mentor for JavaScript and React mastery.
 
-## 👀 Visitor Count <img src="https://profile-counter.glitch.me/Chitresh8/count.svg"/>
-<img src="https://profile-counter.glitch.me/Chitresh8/count.svg" alt="Visitor Count"/>
-![Visitor Count](https://img.shields.io/badge/dynamic/json?color=informational&label=Visitors&query=value&url=https://api.countapi.xyz/hit/Chitresh8/github-profile-readme&style=flat)
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Chitresh8.Chitresh8)
+## 👀 Visitor Count 
+
 
