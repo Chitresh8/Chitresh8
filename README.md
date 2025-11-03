@@ -18,5 +18,5 @@ Here are some ideas to get you started:-
 - 🙏 Looking for a mentor for JavaScript and React mastery.
 
 ## 👀 Visitor Count 
-![](https://komarev.com/ghpvc/?username=chitresh8&color=green)
+![](https://komarev.com/ghpvc/?username=Chitresh8&color=green)
 
