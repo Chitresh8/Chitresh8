@@ -17,6 +17,5 @@ Here are some ideas to get you started:-
 - ✍ Actively learning and implementing TypeScript in React.
 - 🙏 Looking for a mentor for JavaScript and React mastery.
 
-## 👀 Visitor Count ![](https://komarev.com/ghpvc/?username=Chitresh8)
-
+## 👀 Visitor Count ![](https://komarev.com/ghpvc/?username=chitresh8&color=green)
 
