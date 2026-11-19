@@ -1,6 +1,5 @@
 Hi there 👋! I'm Chitresh = ( React JS ) => { Front End Developer }; 
 
-
 <!--
 **Chitresh8/chitresh8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
